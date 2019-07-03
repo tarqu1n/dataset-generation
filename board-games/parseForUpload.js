@@ -31,7 +31,12 @@ Object.keys(games).forEach(rowIndex => {
 			cellData = null;
 		}
 
-		tsv += String(cellData).replace(/\s+/g, ' ').replace(/(<([^>]+)>)/ig,"").trim().replace(/(\r\n|\n|\r)/gm," ");
+		tsv += String(cellData)
+			.replace(/\s+/g, ' ')
+			.replace(/(<([^>]+)>)/ig,"")
+			.trim()
+			.replace(/(\r\n|\n|\r)/gm," ")
+			.replace(/,/g, '\\,');
 		tsv += '\t';
 	}
 
