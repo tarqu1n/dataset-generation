@@ -16,7 +16,7 @@ const columnMap = {
 	negative_affect: 'K'
 }
 
-const initData = () => {
+const buildData = () => {
 	const targetYear = 2018;
 	const sheet = workbook.Sheets['Table2.1']
 	const data = {};
@@ -28,13 +28,13 @@ const initData = () => {
 			rowExists = false;
 			break;
 		}
+		const countryName = sheet[`${columnMap['name']}${i}`].v.toLowerCase().replace(' ', '_');
 
-		if (parseInt(sheet[`${columnMap['year']}${i}`].v) !== 2018) {
+		if (data[countryName] && parseInt(data[countryName].year) > parseInt(sheet[`${columnMap['year']}${i}`].v)) {
 			i++;
-			continue; // skip any year that is not 2018
+			continue;
 		}
 
-		const countryName = sheet[`${columnMap['name']}${i}`].v.toLowerCase().replace(' ', '_');
 		data[countryName] = {};
 		// get important data from sheet
 		for (let col in columnMap) {
@@ -116,12 +116,19 @@ const getOtherCountryData = async data => {
 }
 
 const main = async () => {
-	let data = initData();
+	let data = buildData();
 	data = getHappiness(data);
 	data = getChangesInHappiness(data);
 	data = await getOtherCountryData(data);
 
-	fs.writeFileSync('output-data.json', JSON.stringify(data));
+	const arrData = [];
+	for (let key in data) {
+		arrData.push(data[key]);
+	}
+
+	console.log(`output-data.json written with ${arrData.length} items`);
+	fs.writeFileSync('output-data.json', JSON.stringify(arrData));
+
 	return data;
 }
 
