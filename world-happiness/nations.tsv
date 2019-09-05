@@ -1,0 +1,199 @@
+id	Name	ImageName	Population change since 2016	Birth Rate/1000	Death Rate/1000	Infant Mortality	% of Pop below Poverty Line	Human Development Index	Corruption Index	GDP per capita	Life Expectancy (M)	Life Expectancy (F)	System of Government	Migrant Population %	Incarceration Rates		id	Wikipedia URL	Location	GDP Per Capita	GDP	Migrant Population Percentage
+0	 Afghanistan	Flag_of_Afghanistan.jpg	2.5	38.84	14.12	112.8	16	0.479	15	18886	49.9	52.7	Republic	0.3	74		0	http://en.wikipedia.org/wiki/Afghanistan	+34.32+69.08/	600	19654000000	0.3
+1	 Albania	Flag_of_Albania.jpg	0.1	12.73	6.47	12.3	14.3	0.764	39	12126	75.7	81.2	Republic	3.1	192		1	http://en.wikipedia.org/wiki/Albania	+41.19+19.49/	4444	12204000000	3.1
+2	 Algeria	Flag_of_Algeria.jpg	1.8	23.99	4.31	20.3	23	0.745	34	160784	75.5	78.2	Republic	0.7	156		2	http://en.wikipedia.org/wiki/Algeria	+36.42+3.13/	4425	1.8171E+11	0.7
+3	 Andorra	Flag_of_Andorra.jpg	-0.4	8.48	6.82	3.6	null	0.858	null	null	80.6	85.1	Constitutional monarchy	56.9	53		3	http://en.wikipedia.org/wiki/Andorra	+42.30+1.31/	53383	4510000000	56.9
+4	 Angola	Flag_of_Angola.jpg	3.4	38.97	11.67	76.5	40.5	0.533	18	95821	54.8	57.2	Republic	0.4	96		4	http://en.wikipedia.org/wiki/Angola	-8.50+13.20/	3819	98815000000	0.4
+5	 Antigua and Barbuda	Flag_of_Antigua_and_Barbuda.jpg	1	15.94	5.7	12.5	null	0.786	null	1398	74.4	78.8	Constitutional monarchy	31.9	403		5	http://en.wikipedia.org/wiki/Antigua_and_Barbuda	+17.7-61.51/	14753	1332000000	31.9
+6	 Argentina	Flag_of_Argentina.jpg	1	16.88	7.34	10.1	30	0.827	36	545124	74	80.4	Republic	4.6	160		6	http://en.wikipedia.org/wiki/Argentina	-34.36-58.23/	13589	5.85623E+11	4.6
+7	 Armenia	Flag_of_Armenia.jpg	0.2	13.92	9.3	13.1	32	0.743	33	10499	71.4	78.3	Republic	10.6	130		7	http://en.wikipedia.org/wiki/Armenia	+40.11+44.31/	3535	10571000000	10.6
+8	 Australia	Flag_of_Australia.jpg	1.3	12.19	7.07	4.3	12.5	0.939	79	1258978	79.8	84.8	Constitutional monarchy	27.7	152		8	http://en.wikipedia.org/wiki/Australia	-35.1829+149.0728/	51642	1.223E+12	27.7
+9	 Austria	Flag_of_Austria.jpg	0.3	8.76	10.38	3.4	4.2	0.893	75	386752	78.9	84.3	Republic	15.2	97		9	http://en.wikipedia.org/wiki/Austria	+48.12+16.21/	44777	3.84799E+11	15.2
+10	 Azerbaijan	Flag_of_Azerbaijan.jpg	1.1	16.96	7.09	24.7	6	0.759	30	37556	69.5	75.8	Republic	3.4	236		10	http://en.wikipedia.org/wiki/Azerbaijan	+40.25+49.50/	6794	63983000000	3.4
+11	 Bahamas	Flag_of_the_Bahamas.jpg	1.1	15.65	7	11.7	9.3	0.792	66	8939	70	74.8	Constitutional monarchy	16.3	363		11	http://en.wikipedia.org/wiki/Bahamas	+25.4-77.20/	22832	8043000000	16.3
+12	 Bahrain	Flag_of_Bahrain.jpg	4.7	13.92	2.67	9.2	null	0.824	43	31907	76.7	81.1	Constitutional monarchy	54.7	301		12	http://en.wikipedia.org/wiki/Bahrain	+26.13+50.35/	24228	29598000000	54.7
+13	 Bangladesh	Flag_of_Bangladesh.jpg	1.1	21.61	5.64	32.9	26	0.579	26	227901	71	75.4	Republic	0.9	43		13	http://en.wikipedia.org/wiki/Bangladesh	+23.42+90.21/	1284	2.05327E+11	0.9
+14	 Barbados	Flag_of_Barbados.jpg	0.3	11.97	8.41	10.5	null	0.795	61	4588	73	77.7	Constitutional monarchy	11.3	322		14	http://en.wikipedia.org/wiki/Barbados	+13.06-59.37/	15912	4451000000	11.3
+15	 Belarus	Flag_of_Belarus.jpg	-0.1	10.86	13.51	3.6	6.3	0.796	40	48847	67.2	78.6	Republic	11.6	306		15	http://en.wikipedia.org/wiki/Belarus	+53.55+27.33/	4855	45887000000	11.6
+16	 Belgium	Flag_of_Belgium.jpg	0.6	9.99	10.76	3.4	15.1	0.896	77	466960	78.4	83.7	Constitutional monarchy	12.9	98		16	http://en.wikipedia.org/wiki/Belgium	+50.51+4.21/	40456	4.58651E+11	12.9
+17	 Belize	Flag_of_Belize.jpg	2.1	25.14	5.95	19.3	41	0.706	null	1743	67.2	70.4	Constitutional monarchy	15	410		17	http://en.wikipedia.org/wiki/Belize	+17.15-88.46/	4865	1807000000	15
+18	 Benin	Flag_of_Benin.jpg	2.8	36.51	8.39	54.2	37.4	0.485	36	8577	60.5	63.3	Republic	2.3	77		18	http://en.wikipedia.org/wiki/Benin	+9.31+2.316/	745	8302000000	2.3
+19	 Bhutan	Flag_of_Bhutan.jpg	1.2	18.12	6.78	33.9	12	0.607	65	2115	69.1	71.1	Constitutional monarchy	6.7	145		19	http://en.wikipedia.org/wiki/Bhutan	+27.28.0+89.38.5/	2836	2209000000	6.7
+20	 Bolivia	Flag_of_Bolivia.jpg	1.5	23.28	6.59	36.4	51.3	0.674	33	34831	66.4	72.1	Republic	1.4	122		20	http://en.wikipedia.org/wiki/Bolivia_(Plurinational_State_of)	-17.48-63.10/	2898	33983000000	1.4
+21	 Bosnia and Herzegovina	Flag_of_Bosnia_and_Herzegovina.jpg	-0.3	8.89	9.64	5.6	18.6	0.75	39	16605	73.7	80	Republic	0.6	73		21	http://en.wikipedia.org/wiki/Bosnia_and_Herzegovina	+43.52+18.25/	4618	16306000000	0.6
+22	 Botswana	Flag_of_Botswana.jpg	1.8	21.34	13.32	8.6	30.3	0.698	60	15018	56.3	52.6	Republic	7.2	193		22	http://en.wikipedia.org/wiki/Botswana	-24.39.5+25.54.5/	0	0	7.2
+23	 Brazil	Flag_of_Brazil.jpg	0.8	14.72	6.54	18	1.4	0.754	40	1798622	70.2	77.5	Republic	0.9	307		23	http://en.wikipedia.org/wiki/Brazil	-15.47-47.52/	7447	1.534E+12	0.9
+24	 Brunei	Flag_of_Brunei.jpg	1.3	17.49	3.47	9.9	null	0.865	58	11182	74.8	79.6	Absolute monarchy	49.3	134		24	http://en.wikipedia.org/wiki/Brunei_Darussalam	+4.53.417+114.56.533/	36855	17060000000	49.3
+25	 Bulgaria	Flag_of_Bulgaria.jpg	-0.7	8.92	14.3	8.5	21	0.794	41	52418	71.2	78	Republic	1.2	125		25	http://en.wikipedia.org/wiki/Bulgaria	+42.41+23.19/	6927	48957000000	1.2
+26	 Burkina Faso	Flag_of_Burkina_Faso.jpg	2.9	42.42	11.96	73.8	46.4	0.402	42	11182	53.4	57.6	Republic	4.1	41		26	http://en.wikipedia.org/wiki/Burkina_Faso	+12.20-1.40/	644	11872000000	4.1
+27	 Burundi	Flag_of_Burundi.jpg	3.2	42.33	9.54	60.4	68	0.404	20	3133	58.8	62.3	Republic	2.5	77		27	http://en.wikipedia.org/wiki/Burundi	-3.30+30.00/	287	2772000000	2.5
+28	 Cambodia	Flag_of_Cambodia.jpg	1.5	24.4	7.78	48.7	17.7	0.563	21	19398	62	67.1	Constitutional monarchy	0.5	116		28	http://en.wikipedia.org/wiki/Cambodia	+11.33+104.55/	1146	17814000000	0.5
+29	 Cameroon	Flag_of_Cameroon.jpg	2.6	36.58	10.4	52.2	48	0.518	26	29334	57.1	59.9	Republic	1.3	114		29	http://en.wikipedia.org/wiki/Cameroon	+3.52+11.31/	1299	30790000000	1.3
+30	 Canada	Flag_of_Canada.jpg	0.9	10.29	8.31	4.6	9.4	0.92	82	1529224	79.2	84.6	Constitutional monarchy	20.7	114		30	http://en.wikipedia.org/wiki/Canada	+45.24-75.40/	40409	1.462E+12	20.7
+31	 Cabo Verde	Flag_of_Cape_Verde.jpg	1.3	20.72	6.17	22.7	null	0.648	59	1636	69.8	74.5	Republic	3	286		31	http://en.wikipedia.org/wiki/Cabo_Verde	+14.55-23.31/	3287	1747000000	3
+32	 Central African Republic	Flag_of_the_Central_African_Republic.jpg	1.4	35.45	14.11	88.4	null	0.352	20	1780	51	53.7	Republic	2.9	16		32	http://en.wikipedia.org/wiki/Central_African_Republic	+4.22+18.35/	376	1840000000	2.9
+33	 Chad	Flag_of_Chad.jpg	3.1	37.29	14.56	87	80	0.396	20	10103	49	51.3	Republic	3.4	39		33	http://en.wikipedia.org/wiki/Chad	+12.06+16.02/	1081	12820000000	3.4
+34	 Chile	Flag_of_Chile.jpg	0.8	13.97	5.93	6.7	11.5	0.847	66	247025	75.7	81.9	Republic	2.7	242		34	http://en.wikipedia.org/wiki/Chile	-33.26-70.40/	16573	2.97714E+11	2.7
+35	 China	Flag_of_the_Peoples_Republic_of_China.jpg	0.4	12.17	7.44	12.2	6.1	0.738	40	11218281	73.5	77.9	Republic	0.1	118		35	http://en.wikipedia.org/wiki/China	+39.55+116.23/	8239	1.1383E+13	0.1
+36	 Colombia	Flag_of_Colombia.jpg	0.8	16.73	5.36	14.1	27.8	0.727	37	282357	72.6	79	Republic	0.3	240		36	http://en.wikipedia.org/wiki/Colombia	+4.35-74.4/	5194	2.5324E+11	0.3
+37	 Comoros	Flag_of_the_Comoros.jpg	2.3	29.05	7.76	61.8	60	0.498	24	620	61.9	66.6	Republic	1.7	19		37	http://en.wikipedia.org/wiki/Comoros	-11.41+43.16/	758	625000000	1.7
+38	 Congo Republic	Flag_of_the_Democratic_Republic_of_the_Congo.jpg	3.3	35.62	10.3	69.8	63	0.592	20	41615	58.1	60.6	Republic	0.7	27		38	http://en.wikipedia.org/wiki/Congo	-4.04+21.76/	2190	9769000000	0.7
+39	 DR Congo	Flag_of_the_Republic_of_the_Congo.jpg	2.6	36.59	10.17	56.4	null	0.435	21	7955	55.8	58.9	Republic	9.7	29		39	http://en.wikipedia.org/wiki/Congo_(Democratic_Republic_of_the)	-4.19+15.19/	499	42056000000	9.7
+40	 Costa Rica	Flag_of_Costa_Rica.jpg	1	16.08	4.49	8.3	24.8	0.776	58	58109	75.9	81.4	Republic	8.7	352		40	http://en.wikipedia.org/wiki/Costa_Rica	+9.56-84.5/	10916	52800000000	8.7
+41	 Cote d'Ivoire	Flag_of_Cote_dIvoire.jpg	2.5	29.25	9.67	57.2	42	0.474	34	35489	57.5	59.9	Republic	12	56		41	http://en.wikipedia.org/wiki/Cote_d'Ivoire	+6.51-5.18/	1409	34284000000	12
+42	 Croatia	Flag_of_Croatia.jpg	-0.6	9.49	12.13	9.5	19.5	0.827	49	50441	72.7	79.2	Republic	17.6	81		42	http://en.wikipedia.org/wiki/Croatia	+45.48+16.0/	12405	51945000000	17.6
+43	 Cuba	Flag_of_Cuba.jpg	0.1	9.9	7.64	4.5	5	0.775	47	7602	76.4	81.1	Republic	0.1	510		43	http://en.wikipedia.org/wiki/Cuba	+23.8-82.23/	7274	82775000000	0.1
+44	 Cyprus	Flag_of_Cyprus.jpg	0.8	11.2	6.7	8.1	null	0.856	55	19810	75.8	81.6	Republic	18.2	80		44	http://en.wikipedia.org/wiki/Cyprus	+35.10+33.22/	26109	23263000000	18.2
+45	 Czech Republic	Flag_of_the_Czech_Republic.jpg	0.1	9.79	10.29	2.6	8.6	0.878	55	192991	75.7	81.8	Republic	4	211		45	http://en.wikipedia.org/wiki/Czech_Republic	+50.05+14.28/	18020	1.89982E+11	4
+46	 Denmark	Flag_of_Denmark.jpg	0.4	10.22	10.23	4	13.4	0.925	90	306730	77	82	Constitutional monarchy	9	61		46	http://en.wikipedia.org/wiki/Denmark	+55.43+12.34/	53280	3.00906E+11	9
+47	 Djibouti	Flag_of_Djibouti.jpg	1.6	24.08	7.84	47.2	18.8	0.473	30	1894	60.7	65.8	Republic	14.2	67		47	http://en.wikipedia.org/wiki/Djibouti	+11.36+43.10/	1917	1903000000	14.2
+48	 Dominica	Flag_of_Dominica.jpg	0.5	15.53	7.94	10.9	29	0.726	59	520	74	80.1	Republic	8.9	300		48	http://en.wikipedia.org/wiki/Dominica	+15.18-61.23/	7362	521000000	8.9
+49	 Dominican Republic	Flag_of_the_Dominican_Republic.jpg	1.1	18.97	4.5	18.1	41.1	0.722	31	72194	75.9	80.5	Republic	3.9	232		49	http://en.wikipedia.org/wiki/Dominican_Republic	+19.00-70.40/	7074	71430000000	3.9
+50	 Ecuador	Flag_of_Ecuador.jpg	1.5	18.87	5.04	16.9	25.6	0.739	31	98010	73.8	79.9	Republic	2.2	162		50	http://en.wikipedia.org/wiki/Ecuador	-00.9-78.21/	6640	1.09759E+11	2.2
+51	 Egypt	Flag_of_Egypt.jpg	1.9	23.35	4.77	19.7	20	0.691	34	332349	71.4	74.2	Republic	0.4	116		51	http://en.wikipedia.org/wiki/Egypt	+30.2+31.13/	3740	3.30765E+11	0.4
+52	 El Salvador	Flag_of_El_Salvador.jpg	0.5	16.79	5.67	17.3	36.5	0.68	36	26709	71.4	78.1	Republic	0.6	541		52	http://en.wikipedia.org/wiki/El_Salvador	+13.40-89.10/	4776	28986000000	0.6
+53	 Equatorial Guinea	Flag_of_Equatorial_Guinea.jpg	3.8	33.83	8.39	67.2	null	0.592	null	11636	63.1	65.4	Republic	1.3	63		53	http://en.wikipedia.org/wiki/Equatorial_Guinea	+3.45+8.47/	9604	7884000000	1.3
+54	 Eritrea	Flag_of_Eritrea.jpg	2.3	30.69	7.65	45.6	50	0.42	18	5352	62.4	67.5	Republic	0.2			54	http://en.wikipedia.org/wiki/Eritrea	+15.20+38.55/	771	5352000000	0.2
+55	 Estonia	Flag_of_Estonia.jpg	-0.2	10.29	13.69	3.8	22.1	0.865	70	23130	71.9	81.7	Republic	16.4	221		55	http://en.wikipedia.org/wiki/Estonia	+59.25+24.45/	17896	23000000000	16.4
+56	 Ethiopia	Flag_of_Ethiopia.jpg	2.5	37.66	8.52	51.1	39	0.448	34	72523	59.8	64.7	Republic	0.8	128		56	http://en.wikipedia.org/wiki/Ethiopia	+9.1+38.45/	739	67435000000	0.8
+57	 Fiji	Flag_of_Fiji.jpg	0.8	19.86	6	9.7	25.5	0.736	null	4640	70	75.5	Republic	2.5	174		57	http://en.wikipedia.org/wiki/Fiji	-18.10+178.27/	5550	4964000000	2.5
+58	 Finland	Flag_of_Finland.jpg	0.4	10.35	10.51	2.5	null	0.895	89	236883	77.9	84	Republic	5.4	55		58	http://en.wikipedia.org/wiki/Finland	+60.10+024.56/	41690	2.34578E+11	5.4
+59	 France	Flag_of_France.jpg	0.4	12.49	9.06	3.3	8.1	0.897	69	2463222	78.7	85.1	Republic	11.1	103		59	http://en.wikipedia.org/wiki/France	+48.51+2.21/	37675	2.422E+12	11.1
+60	 Gabon	Flag_of_Gabon.jpg	2.3	34.64	13.13	45.1	null	0.697	35	14273	51.6	52.5	Republic	23.6	193		60	http://en.wikipedia.org/wiki/Gabon	+0.23+9.27/	8730	14240000000	23.6
+61	 Gambia	Flag_of_The_Gambia.jpg	3	31.75	7.26	62	null	0.452	26	965	62.5	67.3	Republic	8.8	58		61	http://en.wikipedia.org/wiki/Gambia	+13.28-16.36/	371	757000000	8.8
+62	 Georgia	Flag_of_Georgia.jpg	-0.3	12.93	10.77	15.6	9.7	0.769	57	14222	72.1	80.6	Republic	4.4	262		62	http://en.wikipedia.org/wiki/Georgia	+42.31+43.36/	3853	14300000000	4.4
+63	 Germany	Flag_of_Germany.jpg	0.2	8.42	11.29	3.4	15.5	0.926	81	3466639	78.4	83.1	Republic	14.9	78		63	http://en.wikipedia.org/wiki/Germany	+52.31+13.23/	41267	3.371E+12	14.9
+64	 Ghana	Flag_of_Ghana.jpg	2.2	31.4	7.37	36.3	24.2	0.579	43	43264	64.1	69.1	Republic	1.4	49		64	http://en.wikipedia.org/wiki/Ghana	+5.33-0.12/	1384	38171000000	1.4
+65	 Greece	Flag_of_Greece.jpg	-0.2	8.8	11	4.6	44	0.866	44	194248	77.9	83.3	Republic	11.1	91		65	http://en.wikipedia.org/wiki/Greece	+37.58+23.43/	18035	1.94594E+11	11.1
+66	 Grenada	Flag_of_Grenada.jpg	0.5	16.3	8.04	9.9	38	0.754	56	1027	71.7	77.1	Constitutional monarchy	10.7	421		66	http://en.wikipedia.org/wiki/Grenada	+12.03-61.45/	9332	1000000000	10.7
+67	 Guatemala	Flag_of_Guatemala.jpg	2	25.46	4.82	22	54	0.64	28	68175	70.3	74.4	Republic	0.5	122		67	http://en.wikipedia.org/wiki/Guatemala	+14.38-90.30/	4059	66037000000	0.5
+68	 Guinea	Flag_of_Guinea.jpg	2.6	36.02	9.69	51.7	47	0.414	27	6512	59	62.2	Republic	3.2	26		68	http://en.wikipedia.org/wiki/Guinea	+9.31-13.42/	558	7067000000	3.2
+69	 Guinea-Bissau	Flag_of_Guinea-Bissau.jpg	2.5	33.83	14.54	87.5	null	0.424	16	1155	48.6	52.7	Republic	1.1	10		69	http://en.wikipedia.org/wiki/Guinea-Bissau	+11.52-15.36/	613	1116000000	1.1
+70	 Guyana	Flag_of_Guyana.jpg	0.6	15.9	7.3	31.5	35	0.638	34	3437	65.4	71.5	Republic	1.7	256		70	http://en.wikipedia.org/wiki/Guyana	+6.46-58.10/	3596	2788000000	1.7
+71	 Haiti	Flag_of_Haiti.jpg	1.2	22.83	7.91	48.2	58.5	0.493	20	8257	61.2	66.4	Republic	0.4	102		71	http://en.wikipedia.org/wiki/Haiti	+18.32-72.20/	830	8924000000	0.4
+72	 Vatican City	Flag_of_the_Vatican_City.jpg	-1.1	null	null	null	null	null	null	null	null	null	Absolute monarchy	100			72	http://en.wikipedia.org/wiki/Holy_See	+41.912.45/	0	0	100
+73	 Honduras	Flag_of_Honduras.jpg	1.7	23.66	5.13	17.7	65	0.625	30	21364	69.5	72.8	Republic	0.4	198		73	http://en.wikipedia.org/wiki/Honduras	+14.6-87.13/	2368	19567000000	0.4
+74	 Hong Kong	Flag_of_Hong_Kong.jpg	0.8	9.38	6.93	2.7	null	0.917	77	320668	80.3	85.8	Its Complicated	38.9	115		74	http://en.wikipedia.org/wiki/Hong_Kong	+22.4+114.1/	42437	3.10074E+11	38.9
+75	 Hungary	Flag_of_Hungary.jpg	-0.3	9.26	12.72	5	14	0.836	48	125675	72.2	79.8	Republic	4.7	183		75	http://en.wikipedia.org/wiki/Hungary	+47.26+19.15/	13487	1.32683E+11	4.7
+76	 Iceland	Flag_of_Iceland.jpg	0.8	13.09	7.13	2.1	9	0.921	78	20047	80.9	85.3	Republic	10.7	45		76	http://en.wikipedia.org/wiki/Iceland	+64.08-21.56/	52967	17216000000	10.7
+77	 India	Flag_of_India.jpg	1.1	19.89	7.35	40.5	null	0.624	40	2256397	67.3	69.8	Republic	0.4	33		77	http://en.wikipedia.org/wiki/India	+28.36.8+77.12.5/	1820	2.384E+12	0.4
+78	 Indonesia	Flag_of_Indonesia.jpg	1.1	17.04	6.34	23.5	11.33	0.689	37	932448	67.3	69.8	Republic	0.1	69		78	http://en.wikipedia.org/wiki/Indonesia	-6.10.5+106.49.7/	3620	9.36955E+11	0.1
+79	 Iran	Flag_of_Iran.jpg	1.1	18.23	5.94	37.1	18.7	0.774	29	376755	69.8	73.1	Republic	3.4	287		79	http://en.wikipedia.org/wiki/Iran_(Islamic_Republic_of)	+35.41+51.25/	5306	4.19643E+11	3.4
+80	 Iraq	Flag_of_Iraq.jpg	2.9	26.85	4.57	37.5	25	0.649	17	167026	72.6	77.2	Republic	0.3	123		80	http://en.wikipedia.org/wiki/Iraq	+33.20+44.26/	6491	2.40006E+11	0.3
+81	 Ireland	Flag_of_Ireland.jpg	0.8	15.18	6.45	3.7	5.5	0.923	73	293605	78.5	83.2	Republic	15.9	79		81	http://en.wikipedia.org/wiki/Ireland	+53.14-7.7/	61606	2.941E+11	15.9
+82	 Israel	Flag_of_Israel.jpg	1.6	18.44	5.54	3.5	21	0.899	64	318386	80.6	84.4	Republic	26.5	265		82	http://en.wikipedia.org/wiki/Israel	+31.47+35.13/	35905	3.06194E+11	26.5
+83	 Italy	Flag_of_Italy.jpg	-0.1	8.84	10.1	3.3	29.9	0.887	47	1850735	79.6	85	Republic	8	89		83	http://en.wikipedia.org/wiki/Italy	+41.54+12.29/	30294	1.852E+12	8
+84	 Jamaica	Flag_of_Jamaica.jpg	0.3	18.41	6.67	13.1	16.5	0.73	39	13950	72	75.3	Constitutional monarchy	1.3	145		84	http://en.wikipedia.org/wiki/Jamaica	+17.59-76.48/	4968	14057000000	1.3
+85	 Japan	Flag_of_Japan.jpg	-0.2	8.07	9.38	2	16.1	0.903	72	4938644	81.7	88.5	Constitutional monarchy	1.9	47		85	http://en.wikipedia.org/wiki/Japan	+35.41+139.46/	34871	4.412E+12	1.9
+86	 Jordan	Flag_of_Jordan.jpg	2.6	25.23	3.8	14.7	14.2	0.742	48	38743	73.2	76.1	Constitutional monarchy	40.2	150		86	http://en.wikipedia.org/wiki/Jordan	+31.57+35.56/	5599	38210000000	40.2
+87	 Kazakhstan	Flag_of_Kazakhstan.jpg	1.2	19.61	8.31	20.3	8.2	0.794	29	133757	65.6	75.7	Republic	21.1	221		87	http://en.wikipedia.org/wiki/Kazakhstan	+51.10+71.26/	12950	2.25619E+11	21.1
+88	 Kenya	Flag_of_Kenya.jpg	2.6	28.27	7	38.3	43.4	0.555	26	68919	62.6	65.5	Republic	2.2	121		88	http://en.wikipedia.org/wiki/Kenya	-1.16+36.48/	1432	63121000000	2.2
+89	 Kiribati	Flag_of_Kiribati.jpg	1.8	21.85	7.18	33.2	null	0.588	null	167	63.7	68.8	Republic	2.6	130		89	http://en.wikipedia.org/wiki/Kiribati	+1.28+173.2/	1592	167000000	2.6
+90	 South Korea	Flag_of_North_Korea.jpg	0.5	14.51	9.18	22.9	~50	0.901	53	1411246	66.6	74.5	Republic	0.2	700		90	http://en.wikipedia.org/wiki/Korea_(South)	+37.33+126.58/	27633	1.404E+12	0.2
+91	 North Korea	Flag_of_South_Korea.jpg	0.4	8.26	6.63	3	14.6	null	12	583	79.3	85.8	Republic	2.9	107		91	http://en.wikipedia.org/wiki/Korea_(North)	+40.34+127.51/	621	0	2.9
+92	 Kosovo	Flag_of_Kosovo.jpg	null	17.09	7	35	30	null	36	6707	69	73.3	Republic		100		92	http://en.wikipedia.org/wiki/Kosovo	+42.40+21.10/	4472	8315000000	
+93	 Kuwait	Flag_of_Kuwait.jpg	2.1	20.26	2.16	7.1	null	0.8	41	109859	76.6	79.4	Constitutional monarchy	70	112		93	http://en.wikipedia.org/wiki/Kuwait	+29.22+47.58/	35235	1.48854E+11	70
+94	 Kyrgyzstan	Flag_of_Kyrgyzstan.jpg	1.5	23.33	6.74	26.8	33.7	0.664	28	6551	66.5	75.1	Republic	4.6	167		94	http://en.wikipedia.org/wiki/Kyrgyzstan	+42.52+74.36/	1113	6650000000	4.6
+95	 Laos	Flag_of_Laos.jpg	1.5	24.76	7.74	51.4	22	0.586	30	13790	62.2	66.4	Republic	0.3	119		95	http://en.wikipedia.org/wiki/Laos	+17.58+102.36/	1692	11676000000	0.3
+96	 Latvia	Flag_of_Latvia.jpg	-1.1	9.79	13.6	5.3	null	0.83	57	27684	69.9	79.3	Republic	13.8	224		96	http://en.wikipedia.org/wiki/Latvia	+56.57+24.6/	14140	28000000000	13.8
+97	 Lebanon	Flag_of_Lebanon.jpg	1.3	14.8	4.95	7.6	28	0.763	28	51991	76.3	78.9	Republic	11.9	128		97	http://en.wikipedia.org/wiki/Lebanon	+33.54+35.32/	11068	49919000000	11.9
+98	 Lesotho	Flag_of_Lesotho.jpg	1.3	25.92	14.91	47.6	49	0.497	39	2267	52.9	53.1	Constitutional monarchy	0.1	92		98	http://en.wikipedia.org/wiki/Lesotho	-29.28+27.56/	1091	2096000000	0.1
+99	 Liberia	Flag_of_Liberia.jpg	2.6	35.07	9.9	65.8	80	0.427	37	2111	57.3	60.8	Republic	5.3	49		99	http://en.wikipedia.org/wiki/Liberia	+6.19-10.48/	478	2106000000	5.3
+100	 Libya	Flag_of_Libya.jpg	1.3	18.4	3.57	11.1	null	0.716	14	33157	74.7	78.3	n/a	12.2	99		100	http://en.wikipedia.org/wiki/Libya	+32.52+13.11/	6157	39315000000	12.2
+101	 Liechtenstein	Flag_of_Liechtenstein.jpg	0.7	10.53	7.02	4.3	null	0.912	null	179478	79.7	84.6	Constitutional monarchy	33.1	27		101	http://en.wikipedia.org/wiki/Liechtenstein	+47.1000+9.3035/	143151	5155000000	33.1
+102	 Lithuania	Flag_of_Lithuania.jpg	-0.6	9.36	11.55	3.8	4	0.848	59	42749	69.5	80.6	Republic	4.9	254		102	http://en.wikipedia.org/wiki/Lithuania	+54.41+25.19/	14899	43000000000	4.9
+103	 Luxembourg	Flag_of_Luxembourg.jpg	1.3	11.75	8.53	3.4	null	0.898	81	59468	79.8	84.9	Constitutional monarchy	43.3	120		103	http://en.wikipedia.org/wiki/Luxembourg	+49.36+6.7/	104359	60176000000	43.3
+104	 Madagascar	Flag_of_Madagascar.jpg	2.7	33.12	6.95	42.4	50	0.512	26	9740	64.4	67.4	Republic	0.1	84		104	http://en.wikipedia.org/wiki/Madagascar	-18.55+47.31/	368	9170000000	0.1
+105	 Malawi	Flag_of_Malawi.jpg	2.9	41.8	8.74	44.8	53	0.476	31	5492	59.2	63.2	Republic	1.3	70		105	http://en.wikipedia.org/wiki/Malawi	-13.57+33.42/	330	6149000000	1.3
+106	 Malaysia	Flag_of_Malaysia.jpg	1.4	20.06	5	12.9	3.8	0.789	49	296359	72.2	78	Constitutional monarchy	10.88	172		106	http://en.wikipedia.org/wiki/Malaysia	+3.8+101.41/	12127	3.75633E+11	10.88
+107	 Maldives	Flag_of_Maldives.jpg	2	15.59	3.84	22.9	16	0.701	36	3379	73.3	78	Republic	24.4	421		107	http://en.wikipedia.org/wiki/Maldives	+3.2+73.2/	9126	3228000000	24.4
+108	 Mali	Flag_of_Mali.jpg	3	45.53	13.22	100	36.1	0.442	32	13960	53.9	57.7	Republic	1.3	33		108	http://en.wikipedia.org/wiki/Mali	+12.39-8.0/	707	11880000000	1.3
+109	 Malta	Flag_of_Malta.jpg	0.3	10.24	8.96	3.5	null	0.856	55	10953	78	82.8	Republic	8	131		109	http://en.wikipedia.org/wiki/Malta	+35.54+14.31/	24876	10582000000	8
+110	 Marshall Islands	Flag_of_the_Marshall_Islands.jpg	0.1	26.36	4.24	20	null	null	null	183	70.9	75.4	Republic	3.2	66		110	http://en.wikipedia.org/wiki/Marshall_Islands	+7.7+171.4/	0	0	3.2
+111	 Mauritania	Flag_of_Mauritania.jpg	2.8	31.83	8.35	53.3	40	0.513	27	4714	60.7	65.4	Republic	2.3	44		111	http://en.wikipedia.org/wiki/Mauritania	+18.09-15.58/	1224	4547000000	2.3
+112	 Mauritius	Flag_of_Mauritius.jpg	0.2	13.46	6.85	10	8	0.781	54	11950	72.2	79.2	Republic	3.6	174		112	http://en.wikipedia.org/wiki/Mauritius	-20.10+57.31/	11004	13551000000	3.6
+113	 Mexico	Flag_of_Mexico.jpg	1.3	19.02	5.24	11.9	48	0.762	30	1046002	73.1	78.8	Republic	0.9	204		113	http://en.wikipedia.org/wiki/Mexico	+19.26-99.08/	10174	1.283E+12	0.9
+114	 Micronesia	Flag_of_the_Federated_States_of_Micronesia.jpg	0.6	20.97	4.25	20.5	26.7	0.638	null	322	70.8	75	Republic	2.6	127		114	http://en.wikipedia.org/wiki/Micronesia_(Federated_States_of)	+6.55+158.11/	0	0	2.6
+115	 Moldova	Flag_of_Moldova.jpg	-0.2	12.21	12.6	12.3	26.3	0.699	30	6750	66.9	74.8	Republic	11.2	222		115	http://en.wikipedia.org/wiki/Moldova_(Republic_of)	+47.0+28.55/	1712	6084000000	11.2
+116	 Monaco	Flag_of_Monaco.jpg	0.5	6.72	9.01	1.8	null	null	null	162009	85.6	93.5	Constitutional monarchy	64.2	74		116	http://en.wikipedia.org/wiki/Monaco	+43.44+7.25/	153177	5424000000	64.2
+117	 Mongolia	Flag_of_Mongolia.jpg	1.6	20.88	6.38	21.8	39.2	0.735	38	11031	65.4	74.1	Republic	0.6	266		117	http://en.wikipedia.org/wiki/Mongolia	+47.55+106.53/	4353	12500000000	0.6
+118	 Montenegro	Flag_of_Montenegro.jpg	0.1	10.59	9.3	3.18	8.6	0.807	45	4126	73	78.2	Republic	8.2	182		118	http://en.wikipedia.org/wiki/Montenegro	+42.47+19.28/	6783	4250000000	8.2
+119	 Morocco	Flag_of_Morocco.jpg	1.3	18.47	4.79	22.7	15	0.647	37	103615	73.8	80.1	Constitutional monarchy	0.2	222		119	http://en.wikipedia.org/wiki/Morocco	+34.02-6.51/	3077	1.0308E+11	0.2
+120	 Mozambique	Flag_of_Mozambique.jpg	2.9	38.83	12.34	67.9	54	0.418	27	11283	52.6	54.1	Republic	0.8	57		120	http://en.wikipedia.org/wiki/Mozambique	-25.57+32.35/	684	19043000000	0.8
+121	 Myanmar	Flag_of_Myanmar.jpg	0.9	18.65	8.01	42.2	32.7	0.556	28	66324	64.2	69.2	Republic	0.2	113		121	http://en.wikipedia.org/wiki/Myanmar	+19.45+96.6/	1416	74012000000	0.2
+122	 Namibia	Flag_of_Namibia.jpg	2.2	20.28	13.6	36.4	55.8	0.64	52	10646	62.1	65.1	Republic	2.2	144		122	http://en.wikipedia.org/wiki/Namibia	-22.34.2+17.5.167/	6118	13703000000	2.2
+123	 Narau	Flag_of_Nauru.jpg	0.1	25.61	5.9	7.9	null	null	null	5000	63	70.5	Republic	21.1	140		123	http://en.wikipedia.org/wiki/Narau	-0.523+166.93/	0	0	21.1
+124	 Nepal	Flag_of_Nepal.jpg	1.1	21.07	6.62	28.9	25.2	0.558	29	21154	70.1	71.3	Republic	3.5	62		124	http://en.wikipedia.org/wiki/Nepal	+27.42+85.19/	837	24067000000	3.5
+125	 Netherlands	Flag_of_the_Netherlands.jpg	0.3	10.83	8.57	3.6	9.1	0.924	83	771163	79.2	83.6	Constitutional monarchy	11.1	69		125	http://en.wikipedia.org/wiki/Netherlands	+52.22+4.53/	44828	7.62521E+11	11.1
+126	 New Zealand	Flag_of_New_Zealand.jpg	1	13.4	7.3	4.5	null	0.915	90	181991	79.1	83.3	Constitutional monarchy	25.1	202		126	http://en.wikipedia.org/wiki/New_Zealand	-41.17+174.27/	36254	1.699E+11	25.1
+127	 Nicaragua	Flag_of_Nicaragua.jpg	1.1	18.41	5.07	19	46.2	0.645	26	13049	71.1	75.5	Republic	0.7	171		127	http://en.wikipedia.org/wiki/Nicaragua	+12.9-86.16/	1965	12321000000	0.7
+128	 Niger	Flag_of_Niger.jpg	3.9	46.12	12.73	82.8	63	0.353	35	7479	54.3	56.8	Republic	0.7	44		128	http://en.wikipedia.org/wiki/Niger	+13.32+2.05/	420	7652000000	0.7
+129	 Nigeria	Flag_of_Nigeria.jpg	2.6	38.03	13.16	71.2	70	0.527	28	405952	52.4	54.5	Republic	0.7	35		129	http://en.wikipedia.org/wiki/Nigeria	+9.4+7.29/	2640	4.84895E+11	0.7
+130	 Norway	Flag_of_Norway.jpg	1	12.09	8.19	2.5	null	0.949	85	370449	79.8	83.9	Constitutional monarchy	13.8	70		130	http://en.wikipedia.org/wiki/Norway	+59.56+10.41/	72046	3.84466E+11	13.8
+131	 Oman	Flag_of_Oman.jpg	4.8	24.47	3.38	13.2	null	0.796	45	63171	73.5	77.5	Absolute monarchy	30.6	36		131	http://en.wikipedia.org/wiki/Oman	+23.36+58.33/	20059	51679000000	30.6
+132	 Pakistan	Flag_of_Pakistan.jpg	2	23.19	6.58	53.9	22.3	0.55	32	284185	65.8	69.8	Republic	2.2	43		132	http://en.wikipedia.org/wiki/Pakistan	+33.40+73.10/	1427	2.70961E+11	2.2
+133	 Palau	Flag_of_Palau.jpg	1.1	10.95	7.93	10.9	null	0.788	null	293	69.9	76.5	Republic	27.8	343		133	http://en.wikipedia.org/wiki/Palau	+7.30+134.37/	0	0	27.8
+134	 Palestine	Flag_of_Palestine.jpg	2.7	24.56	3.6	20.63	null	0.684	null	1997	73	77.1	Republic	5.9			134	http://en.wikipedia.org/wiki/State_of_Palestine	+31.95+35.23/	0	0	5.9
+135	 Panama	Flag_of_Panama.jpg	1.6	18.61	4.77	10.1	26	0.788	38	55122	75.8	81.6	Republic	4.7	426		135	http://en.wikipedia.org/wiki/Panama	+8.58-79.32/	11849	47473000000	4.7
+136	 Papua New Guinea	Flag_of_Papua_New_Guinea.jpg	2.1	24.89	6.53	37.4	37	0.516	28	20003	65	69.5	Constitutional monarchy	0.4	63		136	http://en.wikipedia.org/wiki/Papua_New_Guinea	-9.30+147.07/	2283	15973000000	0.4
+137	 Paraguay	Flag_of_Paraguay.jpg	1.3	16.66	4.64	19.4	34.7	0.693	30	27441	74.5	80	Republic	2.8	180		137	http://en.wikipedia.org/wiki/Paraguay	-25.16-57.40/	3767	26804000000	2.8
+138	 Peru	Flag_of_Peru.jpg	1.2	18.57	5.99	19	25.8	0.74	35	195140	71.7	75.9	Republic	0.3	251		138	http://en.wikipedia.org/wiki/Peru	-12.2.6-77.1.7/	6819	2.17607E+11	0.3
+139	 Philippines	Flag_of_the_Philippines.jpg	1.5	24.24	4.92	21.9	25.2	0.682	35	304696	65.7	72.9	Republic	4.6	140		139	http://en.wikipedia.org/wiki/Philippines	+14.35+120.58/	3073	3.10312E+11	4.6
+140	 Poland	Flag_of_Poland.jpg	-0.1	9.77	10.37	4.5	10.2	0.855	62	467591	73.7	81.7	Republic	1.6	187		140	http://en.wikipedia.org/wiki/Poland	+52.13+21.02/	13390	5.08857E+11	1.6
+141	 Portugal	Flag_of_Portugal.jpg	-0.4	9.42	10.97	4.4	18.7	0.843	62	204761	76.1	82.8	Republic	7.5	137		141	http://en.wikipedia.org/wiki/Portugal	+38.46-9.9/	19611	2.04186E+11	7.5
+142	 Qatar	Flag_of_Qatar.jpg	2.7	9.95	1.53	6.2	null	0.856	61	156734	76.7	80.8	Absolute monarchy	73.8	53		142	http://en.wikipedia.org/wiki/Qatar	+25.18+51.31/	102785	1.85395E+11	73.8
+143	 Romania	Flag_of_Romania.jpg	-0.5	9.27	11.88	9.6	22.2	0.802	48	187039	71.7	78.8	Republic	0.9	142		143	http://en.wikipedia.org/wiki/Romania	+44.25+26.06/	9438	1.86514E+11	0.9
+144	 Russia	Flag_of_Russia.jpg	0	11.87	13.83	6.9	11	0.804	29	1280731	64.3	76.4	Republic	7.7	450		144	http://en.wikipedia.org/wiki/Russian_Federation	+55.45+37.37/	7742	1.133E+12	7.7
+145	 Rwanda	Flag_of_Rwanda.jpg	2.4	34.61	9.18	56.8	60	0.498	54	8406	58.5	61.7	Republic	3.8	434		145	http://en.wikipedia.org/wiki/Rwanda	-1.56.633+30.3.567/	769	8763000000	3.8
+146	 Saint Kitts and Nevis	Flag_of_Saint_Kitts_and_Nevis.jpg	1	13.64	7.08	8.6	null	0.765	null	903	73.3	78.2	Constitutional monarchy	10.5	607		146	http://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis	+17.18-62.44/	16793	945000000	10.5
+147	 Saint Lucia	Flag_of_Saint_Lucia.jpg	0.5	13.94	7.32	11.2	21.4	0.735	60	1385	75	80.7	Constitutional monarchy	6.7	327		147	http://en.wikipedia.org/wiki/Saint_Lucia	+14.1-60.59/	8187	1425000000	6.7
+148	 Saint Vincent and the Grenadines	Flag_of_Saint_Vincent_and_the_Grenadines.jpg	0.2	13.85	7.12	12.3	30.2	0.722	60	775	73.3	77.4	Constitutional monarchy	9.4	378		148	http://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines	+13.10-61.14/	7123	784000000	9.4
+149	 Samoa	Flag_of_Samoa.jpg	0.7	21.29	5.32	19	18.8	0.704	null	786	70.8	76.8	Republic	3	257		149	http://en.wikipedia.org/wiki/Samoa	-13.50-171.45/	4618	900000000	3
+150	 San Marino	Flag_of_San_Marino.jpg	0.6	8.7	8.31	4.4	null	null	null	1592	80.7	86.1	Republic	15.4			150	http://en.wikipedia.org/wiki/San_Marino	+43.56+12.26/	0	0	15.4
+151	 Sao Tome and Principe	Flag_of_Sao_Tome_and_Principe.jpg	2.2	35.12	7.45	46.6	54	0.574	46	350	63.6	66.3	Republic	3.3	87		151	http://en.wikipedia.org/wiki/Sao_Tome_and_Principe	+0.20+6.44/	1715	356000000	3.3
+152	 Saudi Arabia	Flag_of_Saudi_Arabia.jpg	2.1	18.78	3.32	13.6	null	0.847	46	639617	73.2	77.4	Absolute monarchy	31.4	161		152	http://en.wikipedia.org/wiki/Saudi_Arabia	+24.39+46.46/	20812	6.53219E+11	31.4
+153	 Senegal	Flag_of_Senegal.jpg	2.8	35.09	8.65	50.3	54	0.494	45	14785	59.7	63.8	Republic	1.5	62		153	http://en.wikipedia.org/wiki/Senegal	+14.40-17.25/	986	15197000000	1.5
+154	 Serbia	Flag_of_Serbia.jpg	-0.3	9.13	13.71	5.9	9.2	0.776	42	37745	72.6	78.5	Republic	5.6	142		154	http://en.wikipedia.org/wiki/Serbia	+44.48+20.28/	5544	39541000000	5.6
+155	 Seychelles	Flag_of_Seychelles.jpg	0.5	14.54	6.9	10.2	null	0.782	null	1405	70.2	79.4	Republic	13	799		155	http://en.wikipedia.org/wiki/Seychelles	-4.37+55.27/	15301	1471000000	13
+156	 Sierra Leone	Flag_of_Sierra_Leone.jpg	2.2	37.4	11.03	70	70.2	0.42	30	3981	55.6	60.9	Republic	1.6	55		156	http://en.wikipedia.org/wiki/Sierra_Leone	+8.29.067-13.14.067/	708	4563000000	1.6
+157	 Singapore	Flag_of_Singapore.jpg	1.5	8.1	3.42	2.4	null	0.925	84	296967	82.3	87.8	Republic	42.9	219		157	http://en.wikipedia.org/wiki/Singapore	+1.17+103.50/	56319	3.08051E+11	42.9
+158	 Slovakia	Flag_of_Slovakia.jpg	0.1	10.01	9.7	5.2	20.5	0.845	51	89525	73.5	80.9	Republic	3.3	184		158	http://en.wikipedia.org/wiki/Slovakia	+48.09+17.07/	16138	87528000000	3.3
+159	 Slovenia	Flag_of_Slovenia.jpg	0.1	8.54	11.25	4	13.5	0.89	61	44009	74.6	82	Republic	11.3	73		159	http://en.wikipedia.org/wiki/Slovenia	+46.03+14.30/	21369	44122000000	11.3
+160	 Solomon Islands	Flag_of_the_Solomon_Islands.jpg	2	26.33	3.86	15.2	null	0.515	42	1184	72.7	78.1	Constitutional monarchy	1.4	46		160	http://en.wikipedia.org/wiki/Solomon_Islands	-9.28+159.49/	1553	840000000	1.4
+161	Somalia	Flag_of_Somalia.jpg	3	40.87	13.91	96.6	null	null	10	434	50.3	54.5	Republic	0.2			161	http://en.wikipedia.org/wiki/Somalia	+2.2+45.21/	284	3000000000	0.2
+162	 South Africa	Flag_of_South_Africa.jpg	1.3	18.94	17.49	32	35.9	0.666	45	294132	61.6	64.6	Republic	0.3	292		162	http://en.wikipedia.org/wiki/South_Africa	-30.56+22.94/	5859	3.26541E+11	0.3
+163	 South Sudan	Flag_of_South_Sudan.jpg	2.8	37.68	8.42	64.6	null	0.418	11	2914	55.15	57.12	Republic	5.6	52		163	http://en.wikipedia.org/wiki/South_Sudan	+04.51+31.36/	1139	13825000000	5.6
+164	 Spain	Flag_of_Spain.jpg	0	9.88	9	3.3	21.1	0.884	58	1232597	78.7	84.9	Constitutional monarchy	14	131		164	http://en.wikipedia.org/wiki/Spain	+40.26-3.42/	26823	1.242E+12	14
+165	 Sri Lanka	Flag_of_Sri_Lanka.jpg	0.4	16.24	6.06	8.6	8.9	0.766	36	82615	73.3	80.4	Republic	1.5	88		165	http://en.wikipedia.org/wiki/Sri_Lanka	+6.56+79.52/	3870	82239000000	1.5
+166	 Sudan	Flag_of_Sudan.jpg	2.4	30.01	7.87	50.2	40	0.49	14	94421	62	66.3	Republic	1.2	50		166	http://en.wikipedia.org/wiki/Sudan	+15.38+032.32/	4500	84330000000	1.2
+167	 Suriname	Flag_of_Suriname.jpg	0.9	16.73	6.13	25.3	70	0.725	45	3570	69.8	74.8	Republic	7.5	183		167	http://en.wikipedia.org/wiki/Suriname	+5.50-55.10/	9583	5297000000	7.5
+168	 Swaziland	Flag_of_Swaziland.jpg	1.8	25.18	13.75	50.4	69	0.541	null	3770	52.2	51	Absolute monarchy	2	282		168	http://en.wikipedia.org/wiki/Swaziland	-26.19+31.8/	3847	4357000000	2
+169	 Sweden	Flag_of_Sweden.jpg	0.7	11.92	9.45	2.6	null	0.913	88	511397	80.2	84.1	Constitutional monarchy	14.3	53		169	http://en.wikipedia.org/wiki/Sweden	+59.21+18.4/	48966	4.83724E+11	14.3
+170	 Switzerland	Flag_of_Switzerland.jpg	0.9	10.48	8.1	3.6	6.9	0.939	86	659850	80.3	85	Republic	28.9	84		170	http://en.wikipedia.org/wiki/Switzerland	+46.57+7.27/	78179	6.5177E+11	28.9
+171	 Syria	Flag_of_Syria.jpg	-0.9	22.76	6.51	15.2	11.9	0.536	13	77460	72.5	77.4	Republic	6.4	60		171	http://en.wikipedia.org/wiki/Syria	+33.30+36.18/	2802	59957000000	6.4
+172	 Taiwan	Flag_of_the_Republic_of_China.jpg	0.3	8.55	6.97	4.4	1.5	null	61	528550	77	83.5	Republic		267		172	http://en.wikipedia.org/wiki/Taiwan	+25.02+121.38/	24985	5.88334E+11	
+173	 Tajikistan	Flag_of_Tajikistan.jpg	2.1	24.99	6.28	32.8	35.6	0.627	25	6922	64.6	71	Republic	3.4	121		173	http://en.wikipedia.org/wiki/Tajikistan	+38.33+68.48/	949	8572000000	3.4
+174	 Tanzania	Flag_of_Tanzania.jpg	3.1	36.82	8.2	41.2	36	0.531	32	47184	60.8	63.6	Republic	0.6	64		174	http://en.wikipedia.org/wiki/Tanzania	-6.37+34.9/	963	46873000000	0.6
+175	 Thailand	Flag_of_Thailand.jpg	0.3	11.26	7.72	9.4	12.6	0.74	35	406949	71.5	78	n/a	5.6	445		175	http://en.wikipedia.org/wiki/Thailand	+13.45+100.29/	5938	4.09724E+11	5.6
+176	 Macedonia	Flag_of_Macedonia.jpg	0.1	11.64	9.04	7.5	30.9	0.748	37	10912	73.6	79	Republic	6.6	166		176	http://en.wikipedia.org/wiki/The_former_Yugoslav_Republic_of_Macedonia	+42.0+21.26/	0	0	6.6
+177	 Timor-Leste	Flag_of_East_Timor.jpg	2.2	34.48	6.18	36.3	41	0.606	35	2498	66.5	69.7	Republic	1	50		177	http://en.wikipedia.org/wiki/Timor-Leste	-8.20+125.20/	3330	1293000000	1
+178	 Togo	Flag_of_Togo.jpg	2.5	34.52	7.43	43.7	32	0.487	32	4434	62.3	69.7	Republic	3	62		178	http://en.wikipedia.org/wiki/Togo	+6.7+1.13/	610	4499000000	3
+179	 Tonga	Flag_of_Tonga.jpg	0.8	23.55	4.86	11.6	24	0.721	null	403	74.7	77.8	Constitutional monarchy	4.8	166		179	http://en.wikipedia.org/wiki/Tonga	-21.08-175.12/	4220	439000000	4.8
+180	 Trinidad and Tobago	Flag_of_Trinidad_and_Tobago.jpg	0.3	13.8	8.48	23	17	0.78	35	20966	69.9	75.9	Republic	2.4	272		180	http://en.wikipedia.org/wiki/Trinidad_and_Tobago	+10.40-61.31/	17455	23816000000	2.4
+181	 Tunisia	Flag_of_Tunisia.jpg	1.1	16.9	5.94	21.6	3.8	0.725	41	41869	74	78.4	Republic	0.3	204		181	http://en.wikipedia.org/wiki/Tunisia	+36.50+10.9/	3919	43989000000	0.3
+182	 Turkey	Flag_of_Turkey.jpg	1.6	16.86	6.12	18.2	16.9	0.767	41	857429	72.5	77.3	Republic	5.81	238		182	http://en.wikipedia.org/wiki/Turkey	+39.55+32.50/	9562	7.51E+11	5.81
+183	 Turkmenistan	Flag_of_Turkmenistan.jpg	1.7	19.46	6.16	35.5	0.2	0.692	22	36180	67.1	73.3	Republic	4.3	583		183	http://en.wikipedia.org/wiki/Turkmenistan	+37.58+58.20/	6479	35398000000	4.3
+184	 Tuvalu	Flag_of_Tuvalu.jpg	0.9	23.74	8.9	29.9	26.3	null	null	34	64.3	68.8	Constitutional monarchy	1.6	110		184	http://en.wikipedia.org/wiki/Tuvalu	-8.31+179.12/	4116	43800000	1.6
+185	 Uganda	Flag_of_Uganda.jpg	3.3	44.17	10.97	57.6	19.7	0.493	25	26195	54	56.9	Republic	1.4	120		185	http://en.wikipedia.org/wiki/Uganda	+1.37+32.3/	0	0	1.4
+186	 Ukraine	Flag_of_Ukraine.jpg	-0.5	9.41	15.72	8	24.1	0.743	29	93263	67.1	76.9	Republic	11.4	168		186	http://en.wikipedia.org/wiki/Ukraine	+50.27+30.30/	2052	87000000000	11.4
+187	 United Arab Emirates	Flag_of_the_United_Arab_Emirates.jpg	1.4	15.54	1.99	10.3	19.5	0.84	66	371353	74.8	80.2	Absolute monarchy	83.7	229		187	http://en.wikipedia.org/wiki/United_Arab_Emirates	+24.28+54.22/	36060	3.45483E+11	83.7
+188	 United Kingdom	Flag_of_the_United_Kingdom.jpg	0.6	12.22	9.34	4.3	15	0.91	81	2629188	78.5	83	Constitutional monarchy	13.2	146		188	http://en.wikipedia.org/wiki/United_Kingdom	+51.30-0.7/	43902	2.65E+12	13.2
+189	 United States	Flag_of_the_United_States.jpg	0.7	13.42	8.15	5.8	15.1	0.92	74	18569100	77.5	82.1	Republic	14.3	693		189	http://en.wikipedia.org/wiki/United_States	+38.53-77.01/	57220	1.8558E+13	14.3
+190	 Uruguay	Flag_of_Uruguay.jpg	0.4	13.18	9.48	8.5	18.6	0.795	71	54567	74.1	80.5	Republic	2.3	291		190	http://en.wikipedia.org/wiki/Uruguay	-34.53-56.10/	15505	53145000000	2.3
+191	 Uzbekistan	Flag_of_Uzbekistan.jpg	1.5	17.02	5.29	18.6	26	0.701	21	66502	70.7	77	Republic	4.4	150		191	http://en.wikipedia.org/wiki/Uzbekistan	+41.16+69.13/	2202	68190000000	4.4
+192	 Vanuatu	Flag_of_Vanuatu.jpg	2.2	25.69	4.14	15.1	12.7	0.597	null	773	71.8	75.1	Republic	1.3	87		192	http://en.wikipedia.org/wiki/Vanuatu	-17.+168./	3036	743000000	1.3
+193	 Venezuela	Flag_of_Venezuela.jpg	1.3	19.42	5.27	12.5	33.1	0.767	17	287274	72.7	78.9	Republic	3.9	159		193	http://en.wikipedia.org/wiki/Venezuela_(Bolivarian_Republic_of)	+10.30-66.55/	5908	1.85611E+11	3.9
+194	 Vietnam	Flag_of_Vietnam.jpg	1	16.26	5.93	17.8	11.3	0.683	null	201326	70.9	76.2	Republic	0.1	146		194	http://en.wikipedia.org/wiki/Viet_Nam	+21.2+105.51/	2321	2.1475E+11	0.1
+195	 Yemen	Flag_of_Yemen.jpg	2.4	31.02	6.45	47.4	54	0.482	14	27318	63.4	67.8	n/a	1.3	53		195	http://en.wikipedia.org/wiki/Yemen	+15.55+48.51/	1437	41884000000	1.3
+196	 Zambia	Flag_of_Zambia.jpg	3	42.46	12.92	62.9	64	0.579	38	21310	50.8	54.1	Republic	0.7	125		196	http://en.wikipedia.org/wiki/Zambia	-15.25+28.17/	0	19117000000	0.7
+197	 Zimbabwe	Flag_of_Zimbabwe.jpg	2.4	32.47	10.62	25.9	72.3	0.516	22	14174	57.3	58.7	Republic	2.6	145		197	http://en.wikipedia.org/wiki/Zimbabwe	-17.50+31.3/	1054	14292000000	2.6
