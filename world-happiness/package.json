@@ -11,6 +11,6 @@
   "dependencies": {
     "json-2-csv": "^3.5.7",
     "node-tsv-json": "^0.2.1",
-    "xlsx": "^0.15.1"
+    "xlsx": "^0.17.0"
   }
 }
